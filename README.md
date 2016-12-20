@@ -5,6 +5,7 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 The code will look like the following:
+
 | Row ID | Order ID | Order Date | Ship Date |
 |:------:|:--------:|:----------:|:---------:|
 | 1 | CA-2013-152156 | 11/9/2013 | 11/12/2013 |
