@@ -12,7 +12,7 @@ The code will look like the following:
 | 2 | CA-2013-13868  | 6/13/2013 | 6/17/2013 |
 | 3 | US-2012-10896  | 10/11/201 | 10/18/2012 |
 
-###Software requirements:
+### Software requirements:
 
 * You'll need any one of the following for the book: 
 * Tableau Desktop Professional version 10.1 or higher 
@@ -20,3 +20,13 @@ http://www.tableau.com/products/desktop
 * Tableau Public version 10.1 or higher 
 https://public.tableau.com/s/
 * Please note that it is ideal if you use Tableau Desktop Professional. However, in case you are using Tableau Desktop Personal or Tableau Public, then some of the functionalities mentioned in the book may change.
+
+## Related Products:
+* [Learning Tableau 10 - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau-10-second-edition?utm_source=github&utm_medium=repository&utm_content=9781786466358)
+
+* [Mastering Tableau](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau?utm_source=github&utm_medium=repository&utm_content=9781784397692)
+
+* [Mastering Tableau 10 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau-10-video?utm_source=github&utm_medium=repository&utm_content=9781786463531)
+
+###Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
