@@ -1,0 +1,21 @@
+#Tableau Cookbook – Recipes for Data Visualization
+This is the code repository for [Tableau Cookbook – Recipes for Data Visualization](https://www.packtpub.com/big-data-and-business-intelligence/tableau-cookbook-%E2%80%93-recipes-data-visualization?utm_source=github&utm_medium=repository&utm_content=9781784395513), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+##Instructions and Navigations
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter 2.
+
+
+The code will look like the following:
+| Row ID | Order ID | Order Date | Ship Date |
+|:--------------:|:--------:|:--------:|:---------:|
+| 1 | CA-2013-152156 | 11/9/2013 | 11/12/2013 |
+| 2 | CA-2013-13868  | 6/13/2013 | 6/17/2013 |
+| 3 | US-2012-10896  | 10/11/201 | 10/18/2012 |
+
+###Software requirements:
+
+[*] You'll need any one of the following for the book: 
+[*] Tableau Desktop Professional version 10.1 or higher 
+http://www.tableau.com/products/desktop
+[*] Tableau Public version 10.1 or higher 
+https://public.tableau.com/s/
+[*] Please note that it is ideal if you use Tableau Desktop Professional. However, in case you are using Tableau Desktop Personal or Tableau Public, then some of the functionalities mentioned in the book may change.
